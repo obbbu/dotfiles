@@ -13,6 +13,9 @@ export VISUAL='/bin/nvim'
 # Aliases
 source $HOME/.aliases
 
+# Annoying Beep Sound
+set bell-style none
+
 # History
 HISTFILE=~/.histfile
 HISTSIZE=1000

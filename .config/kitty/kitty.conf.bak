@@ -5,6 +5,6 @@ dynamic_background_opacity yes
 
 
 # BEGIN_KITTY_THEME
-# 1984 Orwellian
+# Adwaita dark
 include current-theme.conf
 # END_KITTY_THEME
